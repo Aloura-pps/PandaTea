@@ -73,7 +73,7 @@
 }
 
 #menu-produits, #menu-packs, #menu-propos, #menu-forums, #menu-contact {
-    color: white;
+    color: hsl(0, 74%, 45%);
 }
 
 .sup-padding {
